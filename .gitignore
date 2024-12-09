@@ -79,3 +79,14 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+
+# ignore
+
+backup/
+lib/
+fightinggame.exe
+fightinggame.lpr
+fightinggame.lps
+
+
